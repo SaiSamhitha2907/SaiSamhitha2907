@@ -101,4 +101,4 @@ Distributed Systems • Cloud Computing • Software Engineering • DSA • Mac
 
 ## 📫 Let's Connect
 
-💼 [LinkedIn](https://www.linkedin.com/in/saisamhithamudigonda/)  • 💻 GitHub • 📧 [Email](saisamhitha099@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/saisamhithamudigonda/)  • 💻 [GitHub](https://github.com/SaiSamhitha2907/SaiSamhitha2907/blob/main/README.md) • 📧 [Email](saisamhitha099@gmail.com)
